@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Adrian Lach
+- 👀 I’m interested in Game Programming and Business Applications using Java
+- 📫 How to reach me: EMail: adrian.lach1999@gmail.com
